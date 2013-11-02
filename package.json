@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "dependencies": {
+    "grunt": "latest"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}
